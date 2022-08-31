@@ -19,6 +19,11 @@ Right click on the file and say "Run Python File in Terminal"
 Select one or more lines, then press Shift+Enter or right-click and select Run Selection/Line in Python Terminal.
 ## REPL TERMINAL
 From the Command Palette (Ctrl+Shift+P), select the Python: Start REPL command to open a REPL terminal for the currently selected Python interpreter. In the REPL, you can then enter and run lines of code one at a time
+## SHORTCUT
+If you want to add a shortcut to your keyboard so that you can run the file really quickly: 
+    - Go to the command palette (ctrl+shift+P)
+    - Enter "run python file in terminal" and click the settings icon on the right hand side
+    - You can add your own custon shortcut!
 
 # DOCS
 For more information go to the docs:
